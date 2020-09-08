@@ -1,0 +1,1 @@
+NewSample1.java is created to test git
